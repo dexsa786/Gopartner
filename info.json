@@ -9,6 +9,11 @@
    "devices": ["SM-A057F8F758C98CB21A149"],
    "expiry": "27-12-2024 12:00 PM"
 },
+  "gopart008": {
+   "password": "$2y$12$.JKdLsfY7DPf.5G7ZyGzRe4fTnzsSTyqbYyLBrCMs.z13TTEoiH2W",
+   "devices": ["M2101K7BNYDBC0E4526136DA12"],
+   "expiry": "27-12-2024 12:00 PM"
+},
   "gopart003": {
    "password": "$2y$12$oXdMNV42OCVawAw5g5i5oOq0R3p/Iu1ieiFHVNg9jbLEIezzSOdK.",
    "devices": ["TECNOLH6N837706988D33F457"],

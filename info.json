@@ -14,4 +14,9 @@
    "devices": ["TECNOLH6N837706988D33F457"],
    "expiry": "27-12-2024 12:00 PM"
 },
+  "gopart004": {
+   "password": "$2y$12$tGdDWtRStw.ZAvZ7fkCoUeFnETqLCAVZeLThW3xh3cMdI1MOw.mGq",
+   "devices": ["M2101K7BNYDBC0E4526136DA12"],
+   "expiry": "26-12-2024 12:00 PM"
+},
 }

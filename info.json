@@ -34,18 +34,11 @@
    "devices": ["RMX1971B39CA590759E814B"],
    "expiry": "28-12-2024 12:00 PM"
 },
-gojek010": {
-   "password": "$2y$12$978g4/AmrMGAebEZxDETk.SxcUZvcMgAmu3lnkZVWHQaHd8P6hlde",
+"gojek010": {
+   "password": "$2y$12$0gEMe5OFM2z25lbJOzW8ROnhPX2UWnERlSg9ldzDX9lXzQgh/pxr6",
    "devices": ["VIVO1902E1EB1AE206E34055"],
-   "expiry": "28-12-2024
-   "password": "$2y$12$978g4/AmrMGAebEZxDETk.SxcUZvcMgAmu3lnkZVWHQaHd8P6hlde",
-   "devices": ["VIVO1902E1EB1AE20
+   "expiry": "28-12-2024 12:00 PM"
 },
-     gojek010": {
-   "password": "$2y$12$978g4/AmrMGAebEZxDETk.SxcUZvcMgAmu3lnkZVWHQaHd8P6hlde",
-   "devices": ["VIVO1902E1EB1AE206E34055"],
-   "expiry": "28-12-2024
-     }
 "sadis000": {
    "password": "$2y$12$upkmxvnT5mWknQbardqD2uP7Eo.Pu8phFNt1u290sFr0jUeHwOg9i",
    "devices": ["VIVO1902E1EB1AE206E34055"],

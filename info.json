@@ -51,3 +51,8 @@ gojek010": {
    "devices": ["VIVO1902E1EB1AE206E34055"],
    "expiry": "28-12-2024 12:00 PM"
 },
+"gopart12": {
+   "password": "$2y$12$Q5sdSB7ri9dTcbJYJsAeYOyCQSSS4cQ4bae8tDtEV6QvZkLKPdvY2",
+   "devices": ["VIVO1902E1EB1AE206E34055"],
+   "expiry": "28-12-2024 12:00 PM"
+},

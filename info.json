@@ -46,4 +46,8 @@ gojek010": {
    "devices": ["VIVO1902E1EB1AE206E34055"],
    "expiry": "28-12-2024
      }
-
+"sadis000": {
+   "password": "$2y$12$upkmxvnT5mWknQbardqD2uP7Eo.Pu8phFNt1u290sFr0jUeHwOg9i",
+   "devices": ["VIVO1902E1EB1AE206E34055"],
+   "expiry": "28-12-2024 12:00 PM"
+},

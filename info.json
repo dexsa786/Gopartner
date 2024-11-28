@@ -9,11 +9,6 @@
    "devices": ["SM-A057F8F758C98CB21A149"],
    "expiry": "27-12-2024 12:00 PM"
 },
-  "gopart008": {
-   "password": "$2y$12$.JKdLsfY7DPf.5G7ZyGzRe4fTnzsSTyqbYyLBrCMs.z13TTEoiH2W",
-   "devices": ["M2101K7BNYDBC0E4526136DA12"],
-   "expiry": "27-12-2024 12:00 PM"
-},
   "gopart003": {
    "password": "$2y$12$oXdMNV42OCVawAw5g5i5oOq0R3p/Iu1ieiFHVNg9jbLEIezzSOdK.",
    "devices": ["TECNOLH6N837706988D33F457"],
@@ -32,21 +27,6 @@
   "gojek009": {
    "password": "$2y$12$P79KdXdDn1Q36/oHWwvmk.mVYc4Z0Iuwlrlwi8zhlP4Irxam770ju",
    "devices": ["RMX1971B39CA590759E814B"],
-   "expiry": "28-12-2024 12:00 PM"
-},
-"gojek010": {
-   "password": "$2y$12$0gEMe5OFM2z25lbJOzW8ROnhPX2UWnERlSg9ldzDX9lXzQgh/pxr6",
-   "devices": ["VIVO1902E1EB1AE206E34055"],
-   "expiry": "28-12-2024 12:00 PM"
-},
-"sadis000": {
-   "password": "$2y$12$upkmxvnT5mWknQbardqD2uP7Eo.Pu8phFNt1u290sFr0jUeHwOg9i",
-   "devices": ["VIVO1902E1EB1AE206E34055"],
-   "expiry": "28-12-2024 12:00 PM"
-},
-"gopart12": {
-   "password": "$2y$12$Q5sdSB7ri9dTcbJYJsAeYOyCQSSS4cQ4bae8tDtEV6QvZkLKPdvY2",
-   "devices": ["VIVO1902E1EB1AE206E34055"],
    "expiry": "28-12-2024 12:00 PM"
 },
 "gopart17": {

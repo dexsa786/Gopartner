@@ -29,4 +29,10 @@
    "devices": ["SM-A146P43883EF2D49153AB"],
    "expiry": "27-12-2024 12:00 PM"
 },
+  "gojek009": {
+   "password": "$2y$12$P79KdXdDn1Q36/oHWwvmk.mVYc4Z0Iuwlrlwi8zhlP4Irxam770ju",
+   "devices": ["RMX1971B39CA590759E814B"],
+   "expiry": "28-12-2024 12:00 PM"
+},
 }
+

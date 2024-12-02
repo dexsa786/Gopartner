@@ -4,6 +4,16 @@
    "devices": ["SM-A146P43883EF2D49153AB"],
    "expiry": "27-12-2024 12:00 PM"
 },
+    "gopart02": {
+   "password": "$2y$12$DB2gHGPodd2d640I.0cpQeBipiqMSGIFdyP1ME4prdS1rEvcSGWDy",
+   "devices": ["23108RN04Y5A6DC8BEC4512275"],
+   "expiry": "17-12-2024 12:00 PM"
+},
+  "gopart01": {
+   "password": "$2y$12$bIHYELlKoEQ7JpnYSlVybO8Fq8TMsVrgzELHA/.orf3MGazkKckKC",
+   "devices": ["REDMINOTE76426CDC2520F892C"],
+   "expiry": "17-12-2024 12:00 PM"
+},
 "gopart007": {
    "password": "$2y$12$jUWpNq2CBzAwlo9Eed3Vi.4LXy3rFBazK1bj2iS/BhKLxmKV2WZNa",
    "devices": ["SM-A057F8F758C98CB21A149"],

@@ -49,4 +49,9 @@
    "devices": ["CPH19238F4C7707318C9A2E"],
    "expiry": "02-01-2025 12:59 PM"
 },
+  "DIMAS001": {
+   "password": "$2y$12$ZuMBduXFVLO7xQZwQXM2jex2ypibUiWbmegjywVHMzvedYj9H.SDS",
+   "devices": ["INFINIXX680D98FEB9F9773AFA7"],
+   "expiry": "03-01-2025 12:59 PM"
+},
 },

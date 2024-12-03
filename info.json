@@ -59,4 +59,9 @@
    "devices": ["CPH192365E858F282DB8ED4"],
    "expiry": "03-01-2025 12:00 PM"
 },
+  "FAISAL02": {
+   "password": "$2y$12$brOKoykbinKaAXBIPd/pj.WIBg7M33U4VdUdHguHPSOTwIdWg9Cpi",
+   "devices": ["INFINIXX681656192DED9C1289E5"],
+   "expiry": "03-01-2025 12:59 PM"
+},
 },

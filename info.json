@@ -54,4 +54,9 @@
    "devices": ["INFINIXX680D98FEB9F9773AFA7"],
    "expiry": "03-01-2025 12:59 PM"
 },
+  "DIMAS002": {
+   "password": "$2y$12$eaGFGl1Ffa.K2CuTkrhex.jEtAakpKZHvKJ6/5r/PEAfltL7Z9yJC",
+   "devices": ["CPH192365E858F282DB8ED4"],
+   "expiry": "03-01-2025 12:00 PM"
+},
 },

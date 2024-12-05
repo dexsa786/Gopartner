@@ -64,4 +64,9 @@
    "devices": ["INFINIXX681656192DED9C1289E5"],
    "expiry": "03-01-2025 12:59 PM"
 },
+  "SADIS022": {
+   "password": "$2y$12$FYj3Nr6Uq6SZW6Rh6jqy/eSR5GMNIiN8YRDYDW7NhBoZn9N1OW386",
+   "devices": ["SM-A045F72FCA8BE67E8C886"],
+   "expiry": "05-01-2025 12:00 PM"
+},
 },

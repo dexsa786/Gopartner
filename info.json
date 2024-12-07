@@ -74,4 +74,9 @@
    "devices": ["TECNOLF7NB37A78418A907703"],
    "expiry": "06-01-2025 12:59 PM"
 },
+  "SADIS024": {
+   "password": "$2y$12$Z95y2UsTC6KcslabewwGdeRvcUiY0TUL8NqH.5/r3pJ8tAmJBsyci",
+   "devices": ["SM-A035F8A05CE7884E07EF4"],
+   "expiry": "07-01-2025 12:00 PM"
+},
 },

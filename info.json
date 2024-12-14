@@ -84,4 +84,9 @@
    "devices": ["SM-J730GBA160A409EEE662B"],
    "expiry": "08-01-2025 12:00 PM"
 },
+  "SADIS026": {
+   "password": "$2y$12$uHw0HWlpxtQ/kliX7Hz8LOK.VnFienNE8SyX6gvNqum88B5/a26aG",
+   "devices": ["M2101K7BNY78F61E6051B06A8B"],
+   "expiry": "14-01-2025 12:00 PM"
+},
 },

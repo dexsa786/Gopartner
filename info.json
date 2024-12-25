@@ -109,4 +109,9 @@
    "devices": ["REDMINOTE7A6BF493303A8A948"],
    "expiry": "22-01-2025 12:00 PM"
 },
+  "SADIS031": {
+   "password": "$2y$12$yi8XyI1GS8XtwkewAr.kq.zFOHqvUn59Py5wo58OMK9vRiWnWYJia",
+   "devices": ["SM-A556E84D6BFA684FD5C30"],
+   "expiry": "25-01-2025 12:00 PM"
+},
 },

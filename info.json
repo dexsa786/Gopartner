@@ -107,7 +107,7 @@
   "SADIS030": {
    "password": "$2y$12$LTzB31.G807CMwSIG..K9ugF0l/CMh8cA6gPT2zW9y6iE2uw8X5Gy",
    "devices": ["REDMINOTE7A6BF493303A8A948"],
-   "expiry": "22-01-2025 12:00 PM"
+   "expiry": "22-01-2025 12:00 PM"    
 },
   "SADIS031": {
    "password": "$2y$12$yi8XyI1GS8XtwkewAr.kq.zFOHqvUn59Py5wo58OMK9vRiWnWYJia",
@@ -118,5 +118,10 @@
    "password": "$2y$12$NUmvAqKAykjk6leniKOuX./Rgbr9ils7ccl8Fx4qwovcfv30/ZF1y",
    "devices": ["220333QPG08C33D57C4F269C3"],
    "expiry": "25-01-2025 12:00 PM"
+},
+  "SADIS033": {
+   "password": "$2y$12$gZ471C/fa7N0A8vpSHPHOuOdZwbt7V3w1Crx93hBxxPPfpweoEs4m",
+   "devices": ["M2101K7BNYDBC0E4526136DA12"],
+   "expiry": "26-01-2025 12:00 PM"
 },
 },

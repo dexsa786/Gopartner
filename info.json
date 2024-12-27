@@ -124,4 +124,9 @@
    "devices": ["M2101K7BNYDBC0E4526136DA12"],
    "expiry": "26-01-2025 12:00 PM"
 },
+  "SADIS034": {
+   "password": "$2y$12$fX6.N2wO.0sT1tbiaohfFOxRZI2mMRTSPjEHab7zpTBvEkd0N7MAm",
+   "devices": ["CPH256513DF9E5691873854"],
+   "expiry": "27-01-2025 12:00 PM"
+},
 },

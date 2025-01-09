@@ -9,16 +9,6 @@
    "devices": ["M2101K7BNYDBC0E4526136DA12"],
    "expiry": "26-01-2025 12:00 PM"
 },
-"gopart005": {
-   "password": "$2y$12$AKpWgY8beUSgaBbBipMx.eOgExdxrTYHAcSZsxuywdzk3pnSByriq",
-   "devices": ["SM-A146P43883EF2D49153AB"],
-   "expiry": "27-12-2024 12:00 PM"
-},
-  "gojek009": {
-   "password": "$2y$12$P79KdXdDn1Q36/oHWwvmk.mVYc4Z0Iuwlrlwi8zhlP4Irxam770ju",
-   "devices": ["RMX1971B39CA590759E814B"],
-   "expiry": "28-12-2024 12:00 PM"
-},
 "gopart17": {
    "password": "$2y$12$0TgtYc6HadLYJqttx4sLBeo5B8ZjdlgxrPHz6Mrn6nCeW6CdX52wm",
    "devices": ["VIVO1902E1EB1AE206E34055"],
@@ -29,31 +19,11 @@
    "devices": ["M2006C3LGBB1DDCD717CCA951"],
    "expiry": "09-02-2025 12:00 PM"
 },
-  "DIMAS002": {
-   "password": "$2y$12$eaGFGl1Ffa.K2CuTkrhex.jEtAakpKZHvKJ6/5r/PEAfltL7Z9yJC",
-   "devices": ["CPH192365E858F282DB8ED4"],
-   "expiry": "03-01-2025 12:00 PM"
-},
-  "FAISAL02": {
-   "password": "$2y$12$brOKoykbinKaAXBIPd/pj.WIBg7M33U4VdUdHguHPSOTwIdWg9Cpi",
-   "devices": ["INFINIXX681656192DED9C1289E5"],
-   "expiry": "03-01-2025 12:59 PM"
-},
   "SADIS022": {
    "password": "$2y$12$ASvXZwc0t1NLqQRh2HzSO.GRJuiiWWOe04HXDy9Dki69FA/lOkoBK",
    "devices": ["SM-A045F72FCA8BE67E8C886"],
    "expiry": "05-02-2025 12:59 PM"
 },
-  "SADIS023": {
-   "password": "$2y$12$aJB9KrQWnnJY2H85SKo1we38lOmXUHmmYphJeinzeu/s9mrYPdTJ.",
-   "devices": ["TECNOLF7NB37A78418A907703"],
-   "expiry": "06-01-2025 12:59 PM"
-},
-  "SADIS024": {
-   "password": "$2y$12$Z95y2UsTC6KcslabewwGdeRvcUiY0TUL8NqH.5/r3pJ8tAmJBsyci",
-   "devices": ["SM-A035F8A05CE7884E07EF4"],
-   "expiry": "07-01-2025 12:00 PM"
- },
    "sadis025": {
    "password": "$2y$12$MAS7ZzB..OJLDMnniYDZu.A59d5cKxBlDxKIwQiBlnxeiQQWO.HXa",
    "devices": ["SM-J730G - f450c24ebdd651a0"],
@@ -68,11 +38,6 @@
    "password": "$2y$12$CiJOs5DXOOVqRjKIyTjppuvhumMr9sUfUcDAoVr55bkBdQwFq/FDq",
    "devices": ["V2249EF8FD055797168FA"],
    "expiry": "15-01-2025 12:00 PM"
-},
-  "SADIS028": {
-   "password": "$2y$12$G.4OA5h4wocAZwneQ785FeZsdpCx..v6W6APlDHD6Dz/FgE7hZOCO",
-   "devices": ["CPH21794EF76C428DF94296"],
-   "expiry": "01-01-2025 12:00 PM"
 },
   "SADIS029": {
    "password": "$2y$12$HUgAark.OBSgEajh6T1QdOWZdG3p2BMbsdRjVxMT/AKHBNaDAa9cO",

@@ -204,4 +204,9 @@
    "devices": ["23129RN51X9A9B5D53C1070343"],
    "expiry": "09-02-2025 12:00 PM"
 },
+  "SADIS051": {
+   "password": "$2y$12$zZh7mWcMaxCsh1QgmrBJrehm2x5ZUNjsfTdn9t7i0LnrRx1ODExLi",
+   "devices": ["23129RN51X9A9B5D53C1070343"],
+   "expiry": "09-02-2025 12:00 PM"
+},
 },

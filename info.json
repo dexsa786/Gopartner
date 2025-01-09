@@ -199,4 +199,9 @@
    "devices": ["INFINIXX688B7B09E2B5DB1608A9"],
    "expiry": "09-02-2025 12:00 PM"
 },
+  "SADIS049": {
+   "password": "$2y$12$/4C9JdIP6iF4/GySTS7gjOT5HstIK9/Z4c.c6wUUstK4rpe55UB/.",
+   "devices": ["CPH21859E66A75F5172E60C"],
+   "expiry": "09-02-2025 12:00 PM"
+},
 },

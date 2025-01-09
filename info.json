@@ -79,11 +79,6 @@
    "devices": ["SM-A035F8A05CE7884E07EF4"],
    "expiry": "07-01-2025 12:00 PM"
 },
-  "SADIS025": {
-   "password": "$2y$12$VXbSwqYrjvdn6gJO3BAmcuKrqeyEkCptvMfPplZkN7yIol51bnqLq",
-   "devices": ["SM-J730G - f450c24ebdd651a0"],
-   "expiry": "09-02-2025 12:00 PM"
-},
   "SADIS026": {
    "password": "$2y$12$uHw0HWlpxtQ/kliX7Hz8LOK.VnFienNE8SyX6gvNqum88B5/a26aG",
    "devices": ["M2101K7BNY78F61E6051B06A8B"],

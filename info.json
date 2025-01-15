@@ -159,4 +159,9 @@
    "devices": ["23108RN04YF577FB9E5E97DE4F"],
    "expiry": "14-02-2025 12:00 PM"
 },
+  "SADIS059": {
+   "password": "$2y$12$XCCtYLY7bpDaxhkpb1gui.u8FT.hy7XhlAoyergqqNrqtz7CQOgqe",
+   "devices": ["CPH21794EF76C428DF94296"],
+   "expiry": "15-02-2025 12:00 PM"
+},
 },

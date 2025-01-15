@@ -164,9 +164,4 @@
    "devices": ["CPH21794EF76C428DF94296"],
    "expiry": "15-02-2025 12:00 PM"
 },
-  "SADIS090": {
-   "password": "$2y$12$dZNfPSwPAHUuXtvmYFSy3.iyBQoAhThGecThJQAx3C5XlS1L7d4Dy",
-   "devices": ["CPH21859E66A75F5172E60C"],
-   "expiry": "15-02-2025 12:59 PM"
-},
 },

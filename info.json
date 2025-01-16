@@ -169,4 +169,9 @@
    "devices": ["SM-M215F2715E08C81C3A59B"],
    "expiry": "16-02-2025 12:00 PM"
 },
+  "SADIS061": {
+   "password": "$2y$12$8FbLISxmZF0RTnmoxdVMJe2KHwHzRdp6dN0OiXXfktckkH52ttn5i",
+   "devices": ["CPH1823E7B2128F5AB85583"],
+   "expiry": "16-02-2025 12:00 PM"
+},
 },

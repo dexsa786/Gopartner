@@ -4,11 +4,6 @@
    "devices": ["SM-A146P43883EF2D49153AB"],
    "expiry": "27-12-2024 12:00 PM"
 },
-  "gopart004": {
-   "password": "$2y$12$iSmUQYF0R1jTAZtTsWzRwOptczN7nYD5MWyUckKMisWIKtfnkTsDK",
-   "devices": ["M2101K7BNYDBC0E4526136DA12"],
-   "expiry": "24-02-2025 12:00 PM"
-},
 "gopart17": {
    "password": "$2y$12$0TgtYc6HadLYJqttx4sLBeo5B8ZjdlgxrPHz6Mrn6nCeW6CdX52wm",
    "devices": ["VIVO1902E1EB1AE206E34055"],

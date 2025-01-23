@@ -184,9 +184,4 @@
    "devices": ["SM-A145F21055662294DADDC"],
    "expiry": "22-02-2025 12:00 PM"
 },
-  "DIMAS000": {
-   "password": "$2y$12$dai2VXc1A2ai6y8AO9Wjv.NtiQE.JhnZCLfTShZaAnT7aqP4.HJc2",
-   "devices": ["CPH21859E66A75F5172E60C"],
-   "expiry": "24-02-2025 12:00 PM"
-},
 },

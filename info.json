@@ -214,14 +214,9 @@
    "devices": ["M2103K19G5E97A7F4A0681D47"],
    "expiry": "01-03-2025 12:00 PM"
 },
-  "SADIS071": {
-   "password": "$2y$12$kIZo7xqB4OpICaDXSmnyRe0YpFb0dwtBV0qnHxXQ6ADPPnYtNbV/u",
+  "SADIS081": {
+   "password": "$2y$12$vT6c2eiiCJS0vtM1WDit7OuaJ2q5OUxPNKxEmpIYP8kezMSKEICFm",
    "devices": ["RMX19719B424791A3500210"],
-   "expiry": "01-03-2025 12:00 PM"
-},
-  "SADIS072": {
-   "password": "$2y$12$eH.voP0m3BVSpZZ0cqAsve3Ck.iJB2h2KyO6hJxjWtATWsR6XV8V6",
-   "devices": ["CPH21859E66A75F5172E60C"],
-   "expiry": "01-03-2025 12:00 PM"
+   "expiry": "28-02-2025 12:00 PM"
 },
 },

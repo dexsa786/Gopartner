@@ -224,4 +224,9 @@
    "devices": ["CPH21859E66A75F5172E60C"],
    "expiry": "28-02-2025 12:00 PM"
 },
+  "SADIS083": {
+   "password": "$2y$12$jioN62PCOjfYQAWmoUJc2OzToBgxWm2v7GbnHlBEkMjlIiOkVitoi",
+   "devices": ["RMX19719B424791A3500210"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 },

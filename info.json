@@ -209,4 +209,9 @@
    "devices": ["ASUSAI2201A365416A829DA530"],
    "expiry": "06-03-2025 12:00 PM"
 },
+  "SADIS086": {
+   "password": "$2y$12$Dr4wcftmfU6OpyiMfidp3e3zPXes88wEXu9b0/7UacjLBCYiDy04e",
+   "devices": ["M2007J3SG468222BA39E91B1C"],
+   "expiry": "06-03-2025 12:00 PM"
+},
 },

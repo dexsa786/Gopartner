@@ -219,4 +219,9 @@
    "devices": ["M2010J19SYBA29C7093F99EFB0"],
    "expiry": "06-03-2025 12:00 PM"
 },
+  "SADIS088": {
+   "password": "$2y$12$DHAIgsmCUS7LaawgAkaUMuQs5s/VpQm5wOMicoUyBo8urdFdGYHam",
+   "devices": ["CPH25917E9F50BE386C6FDC"],
+   "expiry": "06-03-2025 12:00 PM"
+},
 },

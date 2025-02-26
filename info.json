@@ -254,4 +254,9 @@
    "devices": ["CPH1931865A6221DC29C54F"],
    "expiry": "23-03-2025 12:00 PM"
 },
+  "SADIS095": {
+   "password": "$2y$12$/AFb/EQ83Klr31YD5f.YnepJzkZ.ZRJaQDWlq6X3ZzJVjT0z3.On.",
+   "devices": ["V22017E341D23AC898EAC"],
+   "expiry": "26-03-2025 12:00 PM"
+},
 },

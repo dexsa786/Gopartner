@@ -259,4 +259,9 @@
    "devices": ["V22017E341D23AC898EAC"],
    "expiry": "26-03-2025 12:00 PM"
 },
+  "SADIS096": {
+   "password": "$2y$12$TwZVvAkxa2UunF8HDrw9u.0q3a8LapzFBoJmUusAl8ivAkrTaCylu",
+   "devices": ["M2102J20SG3E7570B3AD24C42B"],
+   "expiry": "26-03-2025 12:00 PM"
+},
 },

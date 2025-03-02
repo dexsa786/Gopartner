@@ -264,4 +264,9 @@
    "devices": ["M2102J20SG3E7570B3AD24C42B"],
    "expiry": "26-03-2025 12:00 PM"
 },
+  "SADIS097": {
+   "password": "$2y$12$PJBX6B0CrbQjbIk.g61q1O715KIDwLS1SlyfB60wkSqphur/rQeaC",
+   "devices": ["POCOPHONEF119746F3FA3694DCE"],
+   "expiry": "02-04-2025 12:00 PM"
+},
 },

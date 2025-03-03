@@ -274,8 +274,8 @@
    "devices": ["SM-M225FVF27302E69E4C040A"],
    "expiry": "02-04-2025 12:00 PM"
 },
-  "SADIS099": {
-   "password": "$2y$12$1tDMQHh34I9APBLpeyVrUeb6CfMLoVVsp1SIzTMybcHzVfLyMBcl.",
+  "SADIS101": {
+   "password": "$2y$12$J660rbT6FOpS7vxXDx8MJe12BynpA2c8VoK.u1GOwOGS17euwG/My",
    "devices": ["24069PC21G2F9AE712A25801C7"],
    "expiry": "03-04-2025 12:00 PM"
 },

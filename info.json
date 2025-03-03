@@ -279,4 +279,9 @@
    "devices": ["ASUSAI22012F9AE712A25801C7"],
    "expiry": "03-04-2025 12:00 PM"
 },
+  "SADIS102": {
+   "password": "$2y$12$bdfCOjQtfEGvQfLxk/F20uN0Jx997lby8PgJbZb1WJYXnJaWCjQqW",
+   "devices": ["SM-A105G6925438AEDDE42BD"],
+   "expiry": "03-04-2025 12:00 PM"
+},
 },

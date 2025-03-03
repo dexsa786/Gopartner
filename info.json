@@ -269,4 +269,9 @@
    "devices": ["POCOPHONEF119746F3FA3694DCE"],
    "expiry": "02-04-2025 12:00 PM"
 },
+  "SADIS098": {
+   "password": "$2y$12$UK/rMbD/XYxhp5SKFPNc/.NZPDvxlQPFTXx4TpZL2quFRgWrtQ.Zy",
+   "devices": ["SM-M225FVF27302E69E4C040A"],
+   "expiry": "02-04-2025 12:00 PM"
+},
 },

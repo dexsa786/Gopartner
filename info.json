@@ -289,4 +289,9 @@
    "devices": ["SM-A115FEE0B8AE5E9653C17"],
    "expiry": "02-04-2025 12:00 PM"
 },
+  "SADIS104": {
+   "password": "$2y$12$ug4Kpyk49y5299HlUQN52.Yj2nrcn1BzzCE7tv8DFd.Qey2gKEU5q",
+   "devices": ["SM-M336B9EFF7F80237A019E"],
+   "expiry": "04-04-2025 12:00 PM"
+},
 },

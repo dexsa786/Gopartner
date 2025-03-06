@@ -299,4 +299,9 @@
    "devices": ["M2010J19SG1E14BCE1E40297F0"],
    "expiry": "06-04-2025 12:00 PM"
 },
+  "SADIS106": {
+   "password": "$2y$12$Fd9UR3n1W2Ndo7yLNYjMvexsrQAAd31.CUTVF9tPsPuRm8Pye5cLO",
+   "devices": ["CPH226956C8720FECC24DFF"],
+   "expiry": "06-06-2025 12:00 PM"
+},
 },

@@ -304,4 +304,9 @@
    "devices": ["CPH226956C8720FECC24DFF"],
    "expiry": "06-06-2025 12:00 PM"
 },
+  "SADIS107": {
+   "password": "$2y$12$JUVx5fM7jb428eqizfv7FObKnrs.bVeg83AftvFVfKRH1Wb781H..",
+   "devices": ["SM-A307GN804B0302071AA96D"],
+   "expiry": "07-04-2025 12:00 PM"
+},
 },

@@ -314,4 +314,9 @@
    "devices": ["2312DRAABG883C6000BB1AC125"],
    "expiry": "09-04-2025 12:00 PM"
 },
+  "SADIS109": {
+   "password": "$2y$12$Ua9p93KwPLoH9/DxfZD7QeZsquX.OTy4HRHHrBWOU18nziiGOWuHm",
+   "devices": ["REDMINOTE8E161B26A3E84FA7D"],
+   "expiry": "10-04-2025 12:00 PM"
+},
 },

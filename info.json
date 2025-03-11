@@ -324,4 +324,9 @@
    "devices": ["REALME8I08B0958AC1B8607A"],
    "expiry": "11-04-2025 12:00 PM"
 },
+  "SADIS111": {
+   "password": "$2y$12$dCzMwAD91O.7ME6vZuD1BuhTggLzstTD1pMBupIMVD5UhAOjb.C9m",
+   "devices": ["SM-A135FFD85355CDCFD582F"],
+   "expiry": "11-04-2025 12:00 PM"
+},
 },

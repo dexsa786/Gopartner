@@ -329,4 +329,9 @@
    "devices": ["SM-A135FFD85355CDCFD582F"],
    "expiry": "11-04-2025 12:00 PM"
 },
+  "SADIS112": {
+   "password": "$2y$12$VTJnjyn9.S1pt0uP2ztaHO6gOlnNETzo/U2Ivh15NJBp9HPUXMemm",
+   "devices": ["M2007J20CGB11E9CF3D0B52C7E"],
+   "expiry": "11-04-2025 12:00 PM"
+},
 },

@@ -334,4 +334,9 @@
    "devices": ["M2007J20CGB11E9CF3D0B52C7E"],
    "expiry": "11-04-2025 12:00 PM"
 },
+  "SADIS113": {
+   "password": "$2y$12$ag4bGPhbbsuh7zhWfcFDx.cSoKDKRAU2xhGrCXI7.0Aj5O51k28T6",
+   "devices": ["REDMINOTE7D8C960D24D686F33"],
+   "expiry": "12-04-2025 12:00 PM"
+},
 },

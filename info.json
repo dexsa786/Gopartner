@@ -345,4 +345,9 @@
    "devices": ["CPH1609IRUCWCYL5DPBINJV"],
    "expiry": "21-04-2025 12:00 PM"
 },
+  "SADIS116": {
+   "password": "$2y$12$Wet.iLX1TSFt5gEzFatwuO9tnrGWFD5agtzUyyx2NBMp/gGbFV3s.",
+   "devices": ["2201117PG45E8DED2D25564E5"],
+   "expiry": "23-04-2025 12:00 PM"
+},
 },

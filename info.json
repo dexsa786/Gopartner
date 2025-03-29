@@ -125,4 +125,9 @@
    "devices": ["2201117PG45E8DED2D25564E5"],
    "expiry": "23-04-2025 12:00 PM"
 },
+   "SADIS118": {
+   "password": "$2y$12$rUBJmeZNIB4la6OEskl1q.aHe0OdiSCsom9/tB2f3t6UZ9lXBaj5u",
+   "devices": ["M2006C3MG085D07E19EB410D9"],
+   "expiry": "30-04-2025 12:00 PM"
+},
 },
